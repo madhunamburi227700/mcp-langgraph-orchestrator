@@ -54,7 +54,7 @@ uv init
 uv venv
 activate the envirolment
 uv pip install --editable .
-
+after clone the code-search repo under the main directory
 uv run langgraph_flow/main.py
 Example CLI interaction:
 
